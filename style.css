@@ -1,0 +1,19 @@
+.list-group-item > span ,
+.list-group-item > img {
+
+    cursor: pointer;
+}
+.list-group-item{
+    background-color: rgb(95, 95, 95);
+    color: rgb(255, 255, 255);
+}
+
+video {
+    position: fixed;
+    top: 0;
+    left: 0;;
+    z-index: -1;
+    width: 200px;
+    min-width: 100%;
+    min-height: 100%;
+  }
